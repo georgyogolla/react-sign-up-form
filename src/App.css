@@ -1,0 +1,33 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+ */
+body {
+  background-color: aqua;
+}
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form--input {
+  display: block;
+  position: relative;
+  top: 20px;
+  padding: 5px;
+  margin: 10px;
+}
+.form--marketing {
+  position: relative;
+  top: 30px;
+}
+.form--submit {
+  position: relative;
+  top: 40px;
+}
